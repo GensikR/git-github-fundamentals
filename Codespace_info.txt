@@ -1,0 +1,9 @@
+Linux Kernel Version: 5.15.0-1041-azure
+
+No LSB modules are available.
+Distributor ID: Debian
+Description:    Debian GNU/Linux 11 (bullseye)
+Release:        11
+Codename:       bullseye
+
+The filesystem named overlay has 28GB of memory available.
